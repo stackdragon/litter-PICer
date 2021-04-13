@@ -6,15 +6,15 @@ Litter is an unfortunate recurring problem in many areas. This mobile app provid
 
 ** Take or upload photos of litter you encounter **
 
-![Screenshot_of_photo_upload](/project_images/1.png)
+![Screenshot_of_photo_upload](/project_images/2.png)
 
 ** Track the location of litter sites using GPS **
 
-![Screenshot_of_GPS](/project_images/2.png)
+![Screenshot_of_GPS](/project_images/1.png)
 
 ** Maintain a shareable repository of litter dumping grounds **
 
-![Screenshot_of_sites](/project_images/3.png)
+![Screenshot_of_sites](/project_images/4.png)
 
 ## Built with
 
